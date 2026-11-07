@@ -1,0 +1,29 @@
+[project]
+name = "underground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "OlverArceL01", email = "olverarcedev@gmail.com" }
+]
+requires-python = ">=3.10.1,<=3.10.12"
+dependencies = [
+    "mlagents==1.1.0",
+    "onnxscript>=0.1.0.dev20240413",
+    "setuptools<81",
+    "torch==2.8.0",
+]
+
+[project.scripts]
+underground = "underground:main"
+
+[build-system]
+requires = ["uv_build>=0.12.9,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.sources]
+torch = { index = "pytorch" }
+
+[[tool.uv.index]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cpu"
