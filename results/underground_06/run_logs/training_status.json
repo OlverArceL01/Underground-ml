@@ -1,0 +1,47 @@
+{
+    "RobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 499939,
+                "file_path": "results/underground_06/RobotAgent/RobotAgent-499939.onnx",
+                "reward": 25.60589472576976,
+                "creation_time": 1794413561.341568,
+                "auxillary_file_paths": [
+                    "results/underground_06/RobotAgent/RobotAgent-499939.pt"
+                ]
+            },
+            {
+                "steps": 999998,
+                "file_path": "results/underground_06/RobotAgent/RobotAgent-999998.onnx",
+                "reward": null,
+                "creation_time": 1794416968.3423297,
+                "auxillary_file_paths": [
+                    "results/underground_06/RobotAgent/RobotAgent-999998.pt"
+                ]
+            },
+            {
+                "steps": 1003533,
+                "file_path": "results/underground_06/RobotAgent/RobotAgent-1003533.onnx",
+                "reward": 81.76024021208286,
+                "creation_time": 1794416993.1819525,
+                "auxillary_file_paths": [
+                    "results/underground_06/RobotAgent/RobotAgent-1003533.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1003533,
+            "file_path": "results/underground_06/RobotAgent.onnx",
+            "reward": 81.76024021208286,
+            "creation_time": 1794416993.1819525,
+            "auxillary_file_paths": [
+                "results/underground_06/RobotAgent/RobotAgent-1003533.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.8.0+cpu"
+    }
+}

@@ -1,6 +1,6 @@
 default_settings: null
 behaviors:
-  MineRobot:
+  RobotAgent:
     trainer_type: ppo
     hyperparameters:
       batch_size: 128

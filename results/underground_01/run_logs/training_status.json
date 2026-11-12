@@ -1,23 +1,32 @@
 {
-    "MineRobot": {
+    "RobotAgent": {
         "checkpoints": [
             {
-                "steps": 18432,
-                "file_path": "results/underground_01/MineRobot/MineRobot-18432.onnx",
-                "reward": null,
-                "creation_time": 1794091059.583162,
+                "steps": 499969,
+                "file_path": "results/underground_01/RobotAgent/RobotAgent-499969.onnx",
+                "reward": 60.361998251406476,
+                "creation_time": 1794261692.0635753,
                 "auxillary_file_paths": [
-                    "results/underground_01/MineRobot/MineRobot-18432.pt"
+                    "results/underground_01/RobotAgent/RobotAgent-499969.pt"
+                ]
+            },
+            {
+                "steps": 500033,
+                "file_path": "results/underground_01/RobotAgent/RobotAgent-500033.onnx",
+                "reward": 60.361998251406476,
+                "creation_time": 1794261692.0969527,
+                "auxillary_file_paths": [
+                    "results/underground_01/RobotAgent/RobotAgent-500033.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 18432,
-            "file_path": "results/underground_01/MineRobot.onnx",
-            "reward": null,
-            "creation_time": 1794091059.583162,
+            "steps": 500033,
+            "file_path": "results/underground_01/RobotAgent.onnx",
+            "reward": 60.361998251406476,
+            "creation_time": 1794261692.0969527,
             "auxillary_file_paths": [
-                "results/underground_01/MineRobot/MineRobot-18432.pt"
+                "results/underground_01/RobotAgent/RobotAgent-500033.pt"
             ]
         }
     },
