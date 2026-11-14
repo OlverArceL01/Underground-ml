@@ -1,0 +1,65 @@
+{
+    "RobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499993,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-3499993.onnx",
+                "reward": 9.549078680574894,
+                "creation_time": 1794639327.4389272,
+                "auxillary_file_paths": [
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-3499993.pt"
+                ]
+            },
+            {
+                "steps": 3999985,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-3999985.onnx",
+                "reward": 28.104795405268668,
+                "creation_time": 1794655235.5037744,
+                "auxillary_file_paths": [
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-3999985.pt"
+                ]
+            },
+            {
+                "steps": 4499879,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-4499879.onnx",
+                "reward": 59.5501853954047,
+                "creation_time": 1794671317.9251192,
+                "auxillary_file_paths": [
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-4499879.pt"
+                ]
+            },
+            {
+                "steps": 4999915,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-4999915.onnx",
+                "reward": 21.56739809885621,
+                "creation_time": 1794687246.0232825,
+                "auxillary_file_paths": [
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-4999915.pt"
+                ]
+            },
+            {
+                "steps": 5000043,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-5000043.onnx",
+                "reward": 21.56739809885621,
+                "creation_time": 1794687246.2754192,
+                "auxillary_file_paths": [
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-5000043.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000043,
+            "file_path": "results/MineRobotCloudTest/RobotAgent.onnx",
+            "reward": 21.56739809885621,
+            "creation_time": 1794687246.2754192,
+            "auxillary_file_paths": [
+                "results/MineRobotCloudTest/RobotAgent/RobotAgent-5000043.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.8.0+cpu"
+    }
+}
