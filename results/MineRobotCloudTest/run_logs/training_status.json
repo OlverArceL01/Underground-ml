@@ -2,58 +2,58 @@
     "RobotAgent": {
         "checkpoints": [
             {
-                "steps": 3499993,
-                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-3499993.onnx",
-                "reward": 9.549078680574894,
-                "creation_time": 1794639327.4389272,
+                "steps": 5499945,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-5499945.onnx",
+                "reward": 135.65550184994936,
+                "creation_time": 1794704170.7921584,
                 "auxillary_file_paths": [
-                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-3499993.pt"
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-5499945.pt"
                 ]
             },
             {
-                "steps": 3999985,
-                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-3999985.onnx",
-                "reward": 28.104795405268668,
-                "creation_time": 1794655235.5037744,
+                "steps": 5999952,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-5999952.onnx",
+                "reward": 10.361025899648666,
+                "creation_time": 1794720024.3304524,
                 "auxillary_file_paths": [
-                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-3999985.pt"
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-5999952.pt"
                 ]
             },
             {
-                "steps": 4499879,
-                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-4499879.onnx",
-                "reward": 59.5501853954047,
-                "creation_time": 1794671317.9251192,
+                "steps": 6499910,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-6499910.onnx",
+                "reward": 16.64819308836013,
+                "creation_time": 1794735907.2541423,
                 "auxillary_file_paths": [
-                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-4499879.pt"
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-6499910.pt"
                 ]
             },
             {
-                "steps": 4999915,
-                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-4999915.onnx",
-                "reward": 21.56739809885621,
-                "creation_time": 1794687246.0232825,
+                "steps": 6999990,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-6999990.onnx",
+                "reward": 25.483411352150142,
+                "creation_time": 1794751853.372295,
                 "auxillary_file_paths": [
-                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-4999915.pt"
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-6999990.pt"
                 ]
             },
             {
-                "steps": 5000043,
-                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-5000043.onnx",
-                "reward": 21.56739809885621,
-                "creation_time": 1794687246.2754192,
+                "steps": 7012755,
+                "file_path": "results/MineRobotCloudTest/RobotAgent/RobotAgent-7012755.onnx",
+                "reward": 47.80138744227588,
+                "creation_time": 1794752255.835313,
                 "auxillary_file_paths": [
-                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-5000043.pt"
+                    "results/MineRobotCloudTest/RobotAgent/RobotAgent-7012755.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 5000043,
+            "steps": 7012755,
             "file_path": "results/MineRobotCloudTest/RobotAgent.onnx",
-            "reward": 21.56739809885621,
-            "creation_time": 1794687246.2754192,
+            "reward": 47.80138744227588,
+            "creation_time": 1794752255.835313,
             "auxillary_file_paths": [
-                "results/MineRobotCloudTest/RobotAgent/RobotAgent-5000043.pt"
+                "results/MineRobotCloudTest/RobotAgent/RobotAgent-7012755.pt"
             ]
         }
     },
