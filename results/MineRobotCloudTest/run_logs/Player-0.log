@@ -40,7 +40,7 @@ ALSA lib pcm.c:2721:(snd_pcm_open_noupdate) Unknown PCM default
 FMOD failed to initialize the output device.: "Error initializing output device. " (60)
 FMOD initialized on nosound output
 Begin MonoManager ReloadAssembly
-- Finished resetting the current domain, in  0.021 seconds
+- Finished resetting the current domain, in  0.020 seconds
 [Physics::Module] Selected backend (deferred post-plugins).
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -48,16 +48,10 @@ Begin MonoManager ReloadAssembly
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
 Disable old input system
-UnloadTime: 6.196205 ms
+UnloadTime: 5.396375 ms
 Registered Communicator in Agent.
 No se encontró URP/Unlit.
 No se encontró URP/Unlit.
 No se encontró URP/Unlit.
 No se encontró URP/Unlit.
 requesting resize 84 x 84
-[Physics::Module] Cleanup current backend.
-[Physics::Module] Id: 0xf2b8ea05
-Input System module state changed to: ShutdownInProgress.
-Input Polling Thread exited.
-Input System module state changed to: Shutdown.
-CodeReloadManager destroyed
