@@ -1,0 +1,71 @@
+Processor: AMD EPYC 7B12, 8 core(s) @ 2249 MHz 
+Available Memory: 32088 MB 
+Linux Kernel and distribution: Linux 7.0 Ubuntu 24.04 64bit
+System Language: C
+Keyboard Layout: us
+Selected window backend: offscreen 
+Mono path[0] = '/home/olverarcedev/Underground-ml/build-linux/underground_Data/Managed'
+Mono config path = '/home/olverarcedev/Underground-ml/build-linux/underground_Data/MonoBleedingEdge/etc'
+CodeReloadManager initialized
+Failed to open plugin: /home/olverarcedev/Underground-ml/build-linux/underground_Data/Plugins/x86_64/libAppUINativePlugin.so
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+PlayerPrefs - Creating folder: /home/olverarcedev/.config/unity3d/DefaultCompany
+PlayerPrefs - Creating folder: /home/olverarcedev/.config/unity3d/DefaultCompany/Underground
+Unable to load player prefs
+Plugins: Couldn't open /home/olverarcedev/Underground-ml/build-linux/underground_Data/Plugins/x86_64/libAppUINativePlugin.so, error: libgtk-3.so.0: cannot open shared object file: No such file or directory
+Initialize engine version: 6000.6.7f1 (b22767f04f04)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=262144, entitiesPerBlock=1024, blocksPerSlotPage=0, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /home/olverarcedev/Underground-ml/build-linux/underground_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+FMOD initialized on nosound output
+Begin MonoManager ReloadAssembly
+- Finished resetting the current domain, in  0.012 seconds
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Disable old input system
+UnloadTime: 0.763471 ms
+Registered Communicator in Agent.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+No se encontró URP/Unlit.
+requesting resize 84 x 84
