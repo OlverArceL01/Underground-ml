@@ -69,3 +69,9 @@ No se encontró URP/Unlit.
 No se encontró URP/Unlit.
 No se encontró URP/Unlit.
 requesting resize 84 x 84
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+CodeReloadManager destroyed
