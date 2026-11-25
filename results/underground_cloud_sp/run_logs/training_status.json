@@ -2,58 +2,58 @@
     "RobotAgent": {
         "checkpoints": [
             {
-                "steps": 28499989,
-                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-28499989.onnx",
-                "reward": 0.08233873191056773,
-                "creation_time": 1795477134.4803088,
+                "steps": 68499999,
+                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-68499999.onnx",
+                "reward": null,
+                "creation_time": 1795611774.5956013,
                 "auxillary_file_paths": [
-                    "results/underground_cloud_sp/RobotAgent/RobotAgent-28499989.pt"
+                    "results/underground_cloud_sp/RobotAgent/RobotAgent-68499999.pt"
                 ]
             },
             {
-                "steps": 28999989,
-                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-28999989.onnx",
+                "steps": 68999999,
+                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-68999999.onnx",
                 "reward": null,
-                "creation_time": 1795478821.3463922,
+                "creation_time": 1795613441.3002338,
                 "auxillary_file_paths": [
-                    "results/underground_cloud_sp/RobotAgent/RobotAgent-28999989.pt"
+                    "results/underground_cloud_sp/RobotAgent/RobotAgent-68999999.pt"
                 ]
             },
             {
-                "steps": 29499902,
-                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-29499902.onnx",
-                "reward": null,
-                "creation_time": 1795480526.8750012,
+                "steps": 69499958,
+                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-69499958.onnx",
+                "reward": 10.36852877784986,
+                "creation_time": 1795615095.8538623,
                 "auxillary_file_paths": [
-                    "results/underground_cloud_sp/RobotAgent/RobotAgent-29499902.pt"
+                    "results/underground_cloud_sp/RobotAgent/RobotAgent-69499958.pt"
                 ]
             },
             {
-                "steps": 29999956,
-                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-29999956.onnx",
-                "reward": null,
-                "creation_time": 1795482193.6344726,
+                "steps": 69999907,
+                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-69999907.onnx",
+                "reward": -0.18809800478629768,
+                "creation_time": 1795616827.2368715,
                 "auxillary_file_paths": [
-                    "results/underground_cloud_sp/RobotAgent/RobotAgent-29999956.pt"
+                    "results/underground_cloud_sp/RobotAgent/RobotAgent-69999907.pt"
                 ]
             },
             {
-                "steps": 30000084,
-                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-30000084.onnx",
+                "steps": 70001443,
+                "file_path": "results/underground_cloud_sp/RobotAgent/RobotAgent-70001443.onnx",
                 "reward": null,
-                "creation_time": 1795482193.6816034,
+                "creation_time": 1795616832.6496701,
                 "auxillary_file_paths": [
-                    "results/underground_cloud_sp/RobotAgent/RobotAgent-30000084.pt"
+                    "results/underground_cloud_sp/RobotAgent/RobotAgent-70001443.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 30000084,
+            "steps": 70001443,
             "file_path": "results/underground_cloud_sp/RobotAgent.onnx",
             "reward": null,
-            "creation_time": 1795482193.6816034,
+            "creation_time": 1795616832.6496701,
             "auxillary_file_paths": [
-                "results/underground_cloud_sp/RobotAgent/RobotAgent-30000084.pt"
+                "results/underground_cloud_sp/RobotAgent/RobotAgent-70001443.pt"
             ]
         }
     },
